@@ -1,0 +1,16 @@
+Some of the vector DBS:
+FAISS
+chromadb
+DataStax
+pinecone
+
+Splitting
+* Text splitter
+* Document splitter
+
+Some of the methods for comparison:
+* Similarity Search
+* Eucledian Distance
+* Cosine Similarity
+
+* Use embedding model to convert the text into vector embedding
