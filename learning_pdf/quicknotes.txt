@@ -14,3 +14,4 @@ Some of the methods for comparison:
 * Cosine Similarity
 
 * Use embedding model to convert the text into vector embedding
+* added change
