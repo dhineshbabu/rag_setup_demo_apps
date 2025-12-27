@@ -25,3 +25,5 @@ rank_bm25
 wikipedia
 langgraph
 ipykernel
+pymongo>=4.7
+openai
